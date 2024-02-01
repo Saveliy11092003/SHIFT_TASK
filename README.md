@@ -1,4 +1,4 @@
-![image](https://github.com/Saveliy11092003/SHIFT_TASK/assets/112965714/255cce69-e9f1-4d48-8597-3cf5ffac18e8)# SHIFT_TASK
+# SHIFT_TASK
 
 Версия JAVA - 17.0.8
 Версия MAVEN - 3.9.5
